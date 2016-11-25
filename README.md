@@ -1,22 +1,26 @@
-Brandi HTML5 Bootstraped Business Template
-========
+# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
-<img src ="https://cloud.githubusercontent.com/assets/10640964/5989549/0f93dfc8-a9b6-11e4-8f1e-75189f6a5759.jpg" />
+[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
 
-<a href="http://themefisher.com/download/brandi-corporate-template/> Live Preview </a>
+## Getting Started
 
-=========
+To use this template, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-Brandi is a corporate template that is perfect for individuals or businesses. This theme comes with crisp animation and is responsive meaning it looks great on all devices.These demo is just a example … you can make your own color schemes to further customize your template.
+## Bugs and Issues
 
-Key Feature
+Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
 
-100% Responsive Design
-Bootstrap 3.2 Compatible
-Valid HTML5/CSS3 Markup
-Google Fonts Support
-Clean Code, All files are well commented and organized
-Documentation File Included
-PSD credit: https://dribbble.com/themecurve
+## Creator
 
-A template By <a href="http://www.themefisher.com>Themefisher</a>
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
